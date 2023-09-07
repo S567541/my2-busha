@@ -28,7 +28,7 @@ Sports is very important in our life. By that we get lot of benifts, for example
 | Tennis        | Tennis is a great way to improve agility and hand-eye coordination.  | 3-5                            |
 | Hiking        | Hiking allows you to connect with nature, get some exercise, and clear your mind. | 2-4                            |
 | Swimming      | Swimming is a full-body workout that's easy on the joints.  | 4-6                            |
-
+| Cricket       | Cricket is a good to fitness.  | 4-6                            |
 ---
 ### Quotes
 > There are in fact two things, science and opinion; the former begets knowledge, the latter ignorance. – *Hippocrates*
